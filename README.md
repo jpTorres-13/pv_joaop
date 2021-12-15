@@ -1,2 +1,2 @@
 # pv_joaop
-Personal Repository for studies
+Personal repository for studies
