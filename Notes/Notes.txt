@@ -1,0 +1,9 @@
+Deseja-se criar um aplicativo de anotações multiusuário.
+É necessário que o sistema de armazenamento da aplicação crie um ambiente individual para cada usuário cadastrado.
+
+A aplicação deve atender às seguintes funções:
+	1. permitir o cadastro de até 5 perfis individuais;
+	2. garantir que o acesso aos perfis e a seus conteúdos seja restrito ao usuário que o tenha criado;
+	3. permitir que o usuário crie, dentro do ambiente de seu perfil, tantas anotações quanto possível;
+	4. permitir que o usuário acesse suas anotações por meio de um menu em que as anotações estejam organizadas por data e hora de atualização;
+	5. permitir ao usuário alterar, no menu,  o método de organização de suas anotações.
